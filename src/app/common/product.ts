@@ -23,5 +23,5 @@ export class Product {
     
 }
 export const prod:Product[]=[
-    {sku: 'a',name: 'g',description:'c',unitPrice: 100,imageUrl:'e',active: 'f',unitInStock: 'g',dateCreated: 'h',lastUpdated:'i'}
+    {sku: 'a',name: 'g',description:'c',unitPrice: 100,imageUrl:'assets/images/products/download.png',active: 'f',unitInStock: 'g',dateCreated: 'h',lastUpdated:'i'}
   ];
